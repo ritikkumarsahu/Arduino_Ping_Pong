@@ -11,7 +11,7 @@ https://www.tinkercad.com/things/38LiG8aab2U-ping-pong-game
 
 ## About The Project
 
-![Alt text](/Ping Pong Game.png?raw=true "Main Page")
+![Alt text](/Ping_Pong_Game.png?raw=true "Main Page")
 
 Please make sure to update tests as appropriate.
 
