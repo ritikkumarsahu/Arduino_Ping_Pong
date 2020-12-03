@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"UArduino UNO R3 board",1," Arduino Uno R3"
+"UGame LCD",1," LCD 16 x 2 "
+"RCurrent_Limiting_Resistor",1,"220 Ω Resistor"
+"SP1_Up_Button, SP1_Down_Button, SP2_UP_Button, SP2_Down_Button",4," Pushbutton"
+"RPull_Up Resistor, RPull_Up Resistor1, RPull_Up Resistor2, RPull_Up Resistor3",4,"1 kΩ Resistor"
+"RContrast Resistor",1,"1 Ω Resistor"
