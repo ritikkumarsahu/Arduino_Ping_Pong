@@ -6,9 +6,9 @@ It is a Arduino Based 2 Player Pin Pong Game in which Players uses LCD 16*2 Disp
 
 Go to below link and play the game
 
-```
 [TinkerCad](https://www.tinkercad.com/things/38LiG8aab2U-ping-pong-game) 
-```
+https://www.tinkercad.com/things/38LiG8aab2U-ping-pong-game
+
 ## About The Project
 
 ![Alt text](/Ping Pong Game.png?raw=true "Main Page")
