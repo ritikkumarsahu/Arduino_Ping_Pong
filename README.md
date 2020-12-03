@@ -1,4 +1,4 @@
-# Zillow API
+# Arduino Ping Pong Game
 
 It is a Arduino Based 2 Player Pin Pong Game in which Players uses LCD 16*2 Display to see the game. It is hosted on [TinkerCad](https://www.tinkercad.com/things/38LiG8aab2U-ping-pong-game) 
 
